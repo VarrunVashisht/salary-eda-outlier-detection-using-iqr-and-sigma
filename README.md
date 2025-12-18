@@ -95,5 +95,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ```
 
-##  Author
-Varrun Vashisht
+## 🙌 Author
+
+  Varrun Vashisht
