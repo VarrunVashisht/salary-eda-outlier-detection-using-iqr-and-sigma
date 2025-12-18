@@ -93,8 +93,9 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 * Python open-source data science ecosystem
 
-```
+---
 
-## 🙌 Author
+##  Author
 
-  Varrun Vashisht
+Varrun Vashisht
+
